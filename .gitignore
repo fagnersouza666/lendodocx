@@ -28,6 +28,7 @@ languageServer/**
 languageServer.*/**
 bin/**
 obj/**
+lib/**
 .pytest_cache
 tmp/**
 .python-version
@@ -41,3 +42,4 @@ debugpy*.log
 pydevd*.log
 nodeLanguageServer/**
 nodeLanguageServer.*/**
+pyvenv.cfg
